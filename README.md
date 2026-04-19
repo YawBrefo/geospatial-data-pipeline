@@ -1,3 +1,4 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 # geospatial-data-pipeline
 Satellite imagery acquisition and processing pipeline for large-scale remote sensing — powering the Alberta Wells Dataset (ICLR 2025) and agricultural monitoring workflows using Planet, Sentinel, and drone data.
 
