@@ -152,7 +152,7 @@ geospatial workflows:
 
 | Script / Notebook | Domain |
 |---|---|
-| `Planet_API.py`, `Planet_data_pipeline.py`| Alberta Wells — satellite acquisition & ordering |
+| `Planet_API.py`, `Planet_data_pipeline.py`, `satellite_image_masking_pipeline.py`| Alberta Wells — satellite acquisition & ordering |
 
 
 ## Citation
