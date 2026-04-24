@@ -7,7 +7,7 @@ Satellite imagery acquisition and processing pipeline for large-scale remote sen
 [![Dataset](https://img.shields.io/badge/Dataset-Zenodo-87CEEB)](https://zenodo.org/records/13743323)
 
 This repository contains the geospatial data acquisition and processing
-pipeline developed for the
+pipeline developed for
 [Alberta Wells Dataset](https://arxiv.org/abs/2410.09032) project and extended
 to general-purpose remote sensing and earth observation workflows.
 
