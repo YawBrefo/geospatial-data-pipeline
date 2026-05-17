@@ -2,8 +2,8 @@
 """Geospatial image processing pipeline for satellite data.
 
 This module provides utilities for processing Planet Labs satellite imagery,
-including file renaming, reprojection, mask generation, and visualization.
-It is designed for batch processing of PSScene data for well detection and
+including file renaming, reprojection, mask generation and visualization.
+It is designed for batch processing of defined PSScene data for well detection and
 related geospatial analysis.
 """
 
