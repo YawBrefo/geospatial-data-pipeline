@@ -3,7 +3,7 @@
 
 This module provides utilities for processing shapefiles and GeoJSON files
 in geospatial workflows, including batch creation, point clipping, buffering,
-and format conversion.
+and format conversion. Create csv file tracing.
 """
 
 from __future__ import annotations
