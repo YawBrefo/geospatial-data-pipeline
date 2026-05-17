@@ -45,7 +45,7 @@ Millions of abandoned oil and gas wells worldwide leak methane into the
 atmosphere and toxic compounds into groundwater. Many of these locations are
 undocumented, preventing remediation. The Alberta Wells Dataset addresses this
 gap by pairing high-resolution Planet Labs satellite imagery with verified well
-locations from the Alberta Energy Regulator to create the first large-scale
+locations from the Alberta Energy Regulator to create the first large scale
 benchmark for well detection via remote sensing.
 
 **This repository contains the data acquisition layer** of that pipeline:
