@@ -12,7 +12,7 @@ pipeline developed for
 to general-purpose remote sensing and earth observation workflows.
 
 The planet data pipeline shown in this repository was used to acquire and process
-the satellite imagery for over **213,000 oil and gas wells** across Alberta,
+satellite imagery for over **213,000 oil and gas wells** across Alberta,
 Canada — the data backbone of the benchmark published at the
 **ICLR 2025 Workshop on Tackling Climate Change with Machine Learning**.
 
