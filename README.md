@@ -8,7 +8,7 @@ Satellite imagery acquisition and processing pipeline for large-scale remote sen
 
 This repository contains the geospatial data acquisition and processing
 pipeline developed for
-[Alberta Wells Dataset](https://arxiv.org/abs/2410.09032) project which is also extended
+[Alberta Wells Dataset](https://arxiv.org/abs/2410.09032) project which may also extended
 to general purpose remote sensing and earth observation workflows.
 
 The planet data pipeline shown in this repository was used to acquire and process
